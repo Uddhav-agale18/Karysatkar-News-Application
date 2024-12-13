@@ -1,0 +1,11 @@
+/* Add this CSS to your App.css or a specific CSS file for the Epaper component */
+.pdfPreview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .pdfPage {
+    margin: 10px 0; 
+  }
+  

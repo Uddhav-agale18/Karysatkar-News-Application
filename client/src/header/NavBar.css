@@ -1,0 +1,8 @@
+@media (max-width: 1024px) {
+    .sm\:hidden {
+        display: block;
+    }
+    .sm\:flex {
+        display: none;
+    }
+}
